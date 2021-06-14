@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Какая ты буква украинского алфавита</string>
+    <string name="starter_title">Тест какая ты буква украинского алфавита</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
